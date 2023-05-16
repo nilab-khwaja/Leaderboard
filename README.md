@@ -139,8 +139,8 @@ npm start .
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-add animition on buttons make it more dynamic
-using jest library for testing
+ - add animition on buttons make it more dynamic
+ -  using jest library for testing
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -150,7 +150,7 @@ using jest library for testing
 - The original design ideal [Microverse💕](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=23%3A10)
 - Project from [Microverse](https://bit.ly/MicroverseTN) javascript and networking module
 
-## Contributing
+## ⭐ Contributing
 
 Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](https://github.com/nilab-khwaja/Leaderboard/issues).
@@ -163,10 +163,17 @@ Give a ⭐️ if you like this project and how we manage to build it!
 
 
 
-## Acknowledgments
+## 🙏Acknowledgments
 
 - Thanks to the Microverse team for the great curriculum.
 - Thanks to the Code Reviewer(s) for the insightful feedbacks.
 - A great thanks to My coding partner(s), morning session team, and standup team for their contributions.
 - Hat tip to anyone whose code was use.
 <!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
