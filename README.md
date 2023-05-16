@@ -150,12 +150,12 @@ npm start .
 - The original design ideal [Microverse💕](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=23%3A10)
 - Project from [Microverse](https://bit.ly/MicroverseTN) javascript and networking module
 
-## ⭐ Contributing
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](https://github.com/nilab-khwaja/Leaderboard/issues).
 
-## Show your support
+## ⭐️ Show your support
 
 Give a ⭐️ if you like this project and how we manage to build it!
 
