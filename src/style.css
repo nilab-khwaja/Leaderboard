@@ -1,78 +1,75 @@
-body{
-    font-family: 'Courier New', Courier, monospace;
-    box-sizing: border-box;
-    padding: auto;
-    margin-top: 100px;
+body {
+  font-family: 'Courier New', Courier, monospace;
+  box-sizing: border-box;
+  margin-top: 100px;
 }
 
-h1{
-
-    font-size: 3rem;
-    width: 50%;
-    margin: auto;
-    padding-bottom: 20px;
+h1 {
+  font-size: 3rem;
+  width: 50%;
+  margin: auto;
+  padding-bottom: 20px;
 }
 
-.container{
-    display: flex;
-    height: 100%;
-    align-items: center;
-    width: 60%;
-    justify-content: space-evenly;
-    margin: auto;
+.container {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  width: 60%;
+  justify-content: space-evenly;
+  margin: auto;
 }
 
-.ref{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 20px;
-    width: 100%
-    
-}
-.right{
-    display: flex;
-    flex-direction: column;
-    justify-content: baseline;
-    height: 100%;
+.ref {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+  width: 100%;
 }
 
-.left{
-    display: flex;
-    flex-direction: column;
-    justify-content: baseline;
-    height: 100%;
-    gap:1px;
+.right {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.left {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  gap: 1px;
 }
 
 .left h2 {
-    padding: 10px;
-    margin-top: 0;
+  padding: 10px;
+  margin-top: 0;
 }
 
-.form{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    gap: 10px;
-    align-items: flex-end;
-    margin-left: 10px;
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  gap: 10px;
+  align-items: flex-end;
+  margin-left: 10px;
 }
 
-.display-scores{
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-    border: 2px solid black;
-}
-.display-scores li{
-    margin-bottom: 2px;
+.display-scores {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  border: 2px solid black;
 }
 
-.display-scores li:nth-child(even){
-    background-color: rgb(222, 228, 230);
+.display-scores li {
+  margin-bottom: 2px;
+}
+
+.display-scores li:nth-child(even) {
+  background-color: rgb(222, 228, 230);
 }
 
 .input {
-    width: 100%;
+  width: 100%;
 }
