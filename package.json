@@ -21,6 +21,7 @@
   "homepage": "https://github.com/nilab-khwaja/Leaderboard#readme",
   "devDependencies": {
     "css-loader": "^6.7.3",
+    "hint": "^2.0.0",
     "html-webpack-plugin": "^5.5.1",
     "style-loader": "^3.3.2",
     "webpack": "^5.82.1",
