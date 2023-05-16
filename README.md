@@ -38,12 +38,13 @@ The leaderboard website displays scores submitted by different players. It also 
 
 
 ## 🛠 Built With <a name="built-with"></a>
--HTML
--CSS
--Javascript
--webpack
--linters
-### Tech Stack <a name="tech-stack"></a>
+
+- HTML
+- CSS
+- JavaScript
+- Webpack
+- Linters
+
 
 
 
@@ -56,17 +57,6 @@ The leaderboard website displays scores submitted by different players. It also 
 - good structure
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Here you can see a live demo of my portfolio
-
-- [Live Demo Link](https://nilab-khwaja.github.io/leaderboard/)
-
-
-
 
 
 <!-- GETTING STARTED -->
@@ -145,6 +135,15 @@ npm start .
 - Twitter: [@nilab](https://twitter.com/twitterhandle)
 - LinkedIn: @nilab-khwajazada
 
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+add animition on buttons make it more dynamic
+using jest library for testing
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Credits
 
@@ -162,14 +161,6 @@ Give a ⭐️ if you like this project and how we manage to build it!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-add animition on buttons
-make it more dynamic
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## Acknowledgments
@@ -179,10 +170,3 @@ make it more dynamic
 - A great thanks to My coding partner(s), morning session team, and standup team for their contributions.
 - Hat tip to anyone whose code was use.
 <!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
