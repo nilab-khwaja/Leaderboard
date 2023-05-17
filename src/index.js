@@ -46,6 +46,10 @@ refresh.addEventListener('click', async () => {
     const response = await fetch(url);
     const data = await response.json();
     const scoresList = document.getElementById('display-scores');
+
+    // Clear existing list items
+    scoresList.innerHTML = '';
+
     data.result.forEach((score) => {
       const listItem = document.createElement('li');
       listItem.innerText = `${score.user}: ${score.score}`;
