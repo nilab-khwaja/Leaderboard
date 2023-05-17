@@ -34,6 +34,12 @@ form.addEventListener('submit', async (event) => {
     });
     const result = await response.json();
     console.log(result);
+
+    // Add new score to scoreboard list
+    const scoresList = document.getElementById('display-scores');
+    const listItem = document.createElement('li');
+    listItem.innerText = `${data.user}: ${data.score}`;
+    scoresList.appendChild(listItem);
   } catch (error) {
     console.error(error);
   }
