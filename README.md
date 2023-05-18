@@ -58,6 +58,13 @@ The leaderboard website displays scores submitted by different players. It also 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Here you can see a live demo of my project
+
+- [Live Demo Link](https://nilab-khwaja.github.io/Leaderboard/)
 
 <!-- GETTING STARTED -->
 
