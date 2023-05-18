@@ -1,8 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&display=swap");
 
-
 body {
-  font-family:"Comic Neue", cursive;
+  font-family: "Comic Neue", cursive;
   box-sizing: border-box;
   margin-top: 100px;
 }
@@ -82,22 +81,21 @@ h1 {
   border: 2px solid black;
 }
 
-.input:focus{ 
-   box-shadow: 3px 3px gray;
-   font-size: 15px;
+.input:focus {
+  box-shadow: 3px 3px gray;
+  font-size: 15px;
 }
 
-.listItem{
+.listItem {
   padding: 5px;
 }
 
-button{
+button {
   box-shadow: 4px 4px rgb(176, 176, 176);
   color: #111010;
   background-color: rgb(198, 194, 194);
   padding: 3px;
-  font-family:"Comic Neue", cursive;
+  font-family: "Comic Neue", cursive;
   font-weight: 400;
   font-size: 20px;
-
 }

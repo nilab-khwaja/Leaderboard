@@ -3,9 +3,7 @@ import './style.css';
 const gameId = 'kNNyqMjEaTbbcG78RkKA';
 const url = `https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/${gameId}/scores/`;
 
-
 // fetching the gameID from server
-
 
 // fetch(url, {
 //   method: 'POST',

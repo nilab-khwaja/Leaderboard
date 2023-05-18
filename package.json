@@ -6,7 +6,8 @@
   "scripts": {
     "start": "webpack serve --open",
     "watch": "webpack --watch",
-    "build": "webpack"
+    "build": "webpack",
+    "deploy":"gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -18,13 +19,14 @@
   "bugs": {
     "url": "https://github.com/nilab-khwaja/Leaderboard/issues"
   },
-  "homepage": "https://github.com/nilab-khwaja/Leaderboard#readme",
+  "homepage": "https://nilab-khwaja.github.io/Leaderboard",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.7.3",
     "eslint": "^7.32.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.27.5",
+    "gh-pages": "^5.0.0",
     "hint": "^2.0.0",
     "html-webpack-plugin": "^5.5.1",
     "style-loader": "^3.3.2",
