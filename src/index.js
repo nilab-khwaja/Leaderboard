@@ -1,7 +1,11 @@
 import './style.css';
 
-const gameId = 'lk96JlhTBDrWvcnLFAii';
+const gameId = 'kNNyqMjEaTbbcG78RkKA';
 const url = `https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/${gameId}/scores/`;
+
+
+// fetching the gameID from server
+
 
 // fetch(url, {
 //   method: 'POST',
@@ -40,6 +44,7 @@ form.addEventListener('submit', async (event) => {
     const listItem = document.createElement('li');
     listItem.innerText = `${data.user}: ${data.score}`;
     scoresList.appendChild(listItem);
+    listItem.classList.add('listItem');
   } catch (error) {
     console.error(error);
   }
@@ -60,6 +65,7 @@ refresh.addEventListener('click', async () => {
       const listItem = document.createElement('li');
       listItem.innerText = `${score.user}: ${score.score}`;
       scoresList.appendChild(listItem);
+      listItem.classList.add('listItem');
     });
   } catch (error) {
     console.error(error);
